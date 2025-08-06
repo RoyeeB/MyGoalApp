@@ -14,13 +14,12 @@ Welcome to **GoalTracker** – a simple yet powerful iOS app that helps you set,
 
 ## 📸 Screenshots
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-06 at 02 41 40" src="https://github.com/user-attachments/assets/9fe8f2ce-7c18-430c-9e3c-626535c8a615" />
- 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-06 at 02 43 10" src="https://github.com/user-attachments/assets/3ca394e5-6085-462b-84ee-75e4911371cd" />
+<img width="357" height="740" alt="Screenshot 2025-08-06 at 3 31 15" src="https://github.com/user-attachments/assets/dad40cd5-d834-4372-85a3-d48ac0bd5164" />
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-06 at 02 41 31" src="https://github.com/user-attachments/assets/ab5df9bb-5bde-4f56-8870-fc5fba16916c" />
+<img width="357" height="740" alt="Screenshot 2025-08-06 at 3 12 34" src="https://github.com/user-attachments/assets/9e91e367-80ed-46b4-ac5c-86f5c5ebb37f" />
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-06 at 02 44 43" src="https://github.com/user-attachments/assets/9c835320-1617-4c74-b618-45158bd0dc1d" />
+<img width="357" height="740" alt="Screenshot 2025-08-06 at 3 12 20" src="https://github.com/user-attachments/assets/4d95dd96-043e-469c-ad3d-e938f05407b7" />
+
 
 ## 🎥 Demo Video
 
