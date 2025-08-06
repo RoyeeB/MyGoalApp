@@ -23,9 +23,7 @@ Welcome to **GoalTracker** – a simple yet powerful iOS app that helps you set,
 
 ## 🎥 Demo Video
 
-> Add a short video demonstrating your app here  
-> [Watch Demo](https://link-to-your-video.com)
-
+https://drive.google.com/file/d/11tV5Q4JulcHI4iI8GgfvPez259WZEPL0/view?usp=drive_link
 
 ## 🔧 Technologies
 
